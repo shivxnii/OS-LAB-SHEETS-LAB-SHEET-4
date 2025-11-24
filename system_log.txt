@@ -1,0 +1,5 @@
+#task2
+2025-11-23 10:40:12,249 - Process-1 - Process-1 started
+2025-11-23 10:40:12,287 - Process-2 - Process-2 started
+2025-11-23 10:40:14,252 - Process-1 - Process-1 terminated
+2025-11-23 10:40:14,289 - Process-2 - Process-2 terminated
